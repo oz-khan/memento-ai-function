@@ -1,0 +1,13 @@
+{
+  "name": "memento-ai-function",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod --confirm"
+  },
+  "dependencies": {
+    "openai": "^4.56.0"
+  }
+}
